@@ -1,0 +1,11 @@
+2018-09-27 17:30:21,662  INFO [main] BaseTest:25 - *****Project started******
+ 2018-09-27 17:30:21,664  INFO [main] BaseTest:26 - Loading Config File
+ 2018-09-27 17:30:21,665  INFO [main] BaseTest:33 - Config File Loaded succesfully......
+ 2018-09-27 17:30:21,666 DEBUG [main] BaseTest:38 - Browser====>firefox
+ 2018-09-27 17:30:39,803  INFO [main] BaseTest:51 - URL opening...
+ 2018-09-27 17:30:43,047  INFO [main] BaseTest:13 - ******Inside the Login Test******
+ 2018-09-27 17:30:43,052  INFO [main] BaseTest:47 - ....Entering the Email ID
+ 2018-09-27 17:30:43,263  INFO [main] BaseTest:53 - ....Entering the Password
+ 2018-09-27 17:30:43,263 DEBUG [main] BaseTest:54 - password===123456
+ 2018-09-27 17:30:50,426 DEBUG [main] BaseTest:15 - $$$$Logout Lable$$$$$LOGOUT
+ 

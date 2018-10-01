@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="3" total="5" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="28714" started-at="2018-09-27T11:59:00Z" finished-at="2018-09-27T11:59:29Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="28714" started-at="2018-09-27T11:59:00Z" finished-at="2018-09-27T11:59:29Z">
+      <class name="com.hsbcnet.testcases.DashBoardTest">
+        <test-method status="PASS" signature="verifyLogin()[pri:0, instance:com.hsbcnet.testcases.DashBoardTest@166fa74d]" name="verifyLogin" duration-ms="324" started-at="2018-09-27T11:59:29Z" finished-at="2018-09-27T11:59:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+      </class> <!-- com.hsbcnet.testcases.DashBoardTest -->
+      <class name="com.hsbcnet.testcases.LoginTest">
+        <test-method status="PASS" signature="setProperty()[pri:0, instance:com.hsbcnet.testcases.LoginTest@101df177]" name="setProperty" is-config="true" duration-ms="13050" started-at="2018-09-27T11:58:47Z" finished-at="2018-09-27T11:59:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setProperty -->
+        <test-method status="PASS" signature="setURL()[pri:0, instance:com.hsbcnet.testcases.LoginTest@101df177]" name="setURL" is-config="true" duration-ms="7372" started-at="2018-09-27T11:59:00Z" finished-at="2018-09-27T11:59:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setURL -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:com.hsbcnet.testcases.LoginTest@101df177]" name="Login" duration-ms="20944" started-at="2018-09-27T11:59:08Z" finished-at="2018-09-27T11:59:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.hsbcnet.testcases.LoginTest@101df177]" name="closeBrowser" is-config="true" duration-ms="36" started-at="2018-09-27T11:59:29Z" finished-at="2018-09-27T11:59:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.hsbcnet.testcases.LoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
